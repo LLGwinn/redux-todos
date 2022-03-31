@@ -1,0 +1,10 @@
+.ToDo {
+    font-size: smaller;
+    font-family: 'Courier New', Courier, monospace;
+    
+    align-items: center;
+}
+
+.ToDo button {
+    margin: 10px 20px;
+}
